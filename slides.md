@@ -105,7 +105,7 @@ layout: two-cols
 
 ::right::
 
-![](docs/assets/cdne.png)
+// ![](/cdne.png)
 
 
 ---
@@ -142,7 +142,7 @@ layout: two-cols
 
 ::right::
 
-![](docs/assets/Maintainability-Photo.jpg)
+![](/Maintainability-Photo.jpg)
 
 
 ---
@@ -161,7 +161,7 @@ class: my-cool-content-on-the-left
 
 ::right::
 
-![](docs/assets/1_LYxdhJ6QndWdnDmLK9tpGw.png)
+![](/1_LYxdhJ6QndWdnDmLK9tpGw.png)
 
 
 
@@ -179,7 +179,7 @@ class: my-cool-content-on-the-left
 
 ::right::
 
-![](docs/assets/1_IRGHmiGsa16stedQvIaZfw.gif)
+![](/1_IRGHmiGsa16stedQvIaZfw.gif)
 
 
 ---
