@@ -3,25 +3,26 @@
 theme: seriph
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-background: https://source.unsplash.com/collection/94734566/1920x1080
+background: https://cover.sli.dev
 # apply any windi css classes to the current slide
-class: 'text-center'
-download: true
+title: JamStack
+
 # https://sli.dev/custom/highlighters.html
-highlighter: shiki
-# show line numbers in code blocks
-lineNumbers: true
 # some information about the slides, markdown enabled
 info: |
-  ## Slidev JamStack
-  Presentation slides for Master student.
+  ##  JameStack course @Univ Rennes
+  Master @istic
 
   Learn more at [Sli.dev](https://sli.dev)
 # persist drawings in exports and build
+class: text-center
+
 drawings:
   persist: false
 
-
+transition: slide-left
+# enable MDC Syntax: https://sli.dev/features/mdc
+mdc: true
 ---
 
 
